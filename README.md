@@ -1,4 +1,4 @@
-# OnlineDepressionForumsTextMining
+# Corpus for r/depression
 
 This is a repository to access parts of our corpus used in the paper: 
 
